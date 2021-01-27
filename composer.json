@@ -7,10 +7,9 @@
         }
     },
     "require": {
-        "php/fend-core": "~1.2.0"
+        "soft35/fend-core": ">=0.0.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.5.14",
         "swoole/ide-helper": "~4.4.0"
     },
     "repositories": {
