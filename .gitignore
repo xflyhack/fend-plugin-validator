@@ -1,0 +1,11 @@
+.idea
+.buildpath
+.settings/
+.project
+vendor/
+.php_cs.cache
+.git/
+.DS_Store
+*.lock
+Coverage/
+.phpunit.result.cache
